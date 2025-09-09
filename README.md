@@ -2,6 +2,8 @@
 
 **my first website-small start,big dreams**
 
+![Image](https://github.com/user-attachments/assets/c98c14ba-c910-4dc8-b71b-0d39f9636c7f)
+
 
 
 - 💻 Developed by hiva dargazani
